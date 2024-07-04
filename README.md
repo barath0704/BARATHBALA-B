@@ -68,5 +68,6 @@ Description: This model uses reinforcement learning to recommend movies by learn
 **Dataset Dependencies:**
 
 pandas,numpy,tensorflow,keras,gym (for reinforcement learning environment)
-## Author:
-[BARATHBALA B] (https://github.com/barath0704)
+
+## Author :
+Barathbala B (https://github.com/barath0704)
